@@ -7,6 +7,7 @@
     <title>@yield('page-title')</title>
     <link rel="stylesheet" href="{{asset('public/assets/admin/css/bootstrap.css')}}" />
     <link rel="stylesheet" href="{{asset('public/assets/admin/css/admin.css')}}" />
+    <script src="{{asset('public/assets/admin/js/jquery-3.6.1.min.js')}}"></script>
 </head>
 <body>
     <header>
